@@ -1,5 +1,13 @@
 # Portfolio
-i have no idea how to use GitHub Pages so please excuse its roughness. I will make sure it looks better as I work on it!
+Hello, have not gotten the time to tidy this up yet---but I will!
+
+## Week 2 post- Ethics in modeling
+In my mind, the only completely ethical way to perform data modeling is to require informed consent from each subject involved, use their data only for the purposes they've consented to, and ensure the data cannot be used for other purposes after the conclusion of the modeling. Consent is key. I'd argue that anything less than this isn't just ethically ambiguous, it's downright unethical---even if the modeling is ultimately entirely inconsequential. Ethics are based on principles, which exist in a binary state of being violated or not. There can certainly be degrees of how unethical an action is, and results can differ based on the lens of ethics employed, but I balk at the notion that there exists some manner of unknowable gray area.
+
+The concept of ethical ambiguity for data scientists comes from, I think, the fact that any worthwhile model requires massive amounts of data, and at that level it's too difficult to get enough people to provide informed consent when so much data is free for the taking. But without this consent, every potential negative consequence---from misrepresentation of subjects, to misinterpretation of data, to unfair impact---falls back on the researcher. Something does not become ethically ambiguous if negative consequence fail to manifest; it's the very violation of ethical principles---that potential exposure of unwitting subjects to harm---that makes a practice unethical.
+
+As I've expressed throughout this article, informed consent is a necessity for assuaging ethical challenges---but what exactly do I mean? I mean a terms of service that's required to be accepted to use a service does not count, and a consent form simply explaining the researcher's *intended* goal does not count. To have informed consent, the subject must be fully aware of all the potential risks and consequences, even those outside the researcher's control, and still agree for you to use their data. 
+
 
 ## Introductory post- 
 Learning data science in social and interdisciplinary contexts matters because without those contexts data scientists only see numbers; not the lives behind them. It's far too easy and far too common for people working with large datasets to turn it into a numbers game---even more so in a corporate setting. Unwise data scientists find themselves prioritizing efficiency and optimization, totally disconnected from the implications of their work. All this is to say that non-technical education for data scientists is essential to ensuring that they stay humane.
