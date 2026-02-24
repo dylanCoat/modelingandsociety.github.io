@@ -39,9 +39,28 @@ You can see that this follows the general trend with anti-LGBTQ+ bills overall, 
 ![Pie chart comparing anti-trans bills to others. No new info here.](docs/assets/trans_pie_celeste_ref_whoah.png)
 
 # Storytelling & Interpretation
+So it seems abundantly clear that anti-LGBTQ+ action amongst politicians has been on a noticeable rise, with a heavy focus on transphobia. It started out at a negligible amount in 2018, which echoes anecdotal sentiment I've heard that queer and trans people thought things were substantially improving and that their lives could be normalizedaround that period, only for there to be a noticeable jump in bills starting in 2021 and happening again every 2 years. The most obvious explanation here is that this coincides with election cycles; bigoted politicians see attacking LGBTQ+ rights as a way to score approval among their base, so they introduce legislation as a demonstrable proof of their commitment to those views. I personally view it as a desperate last-ditch effort by a group that knows their influence and world-views are declining, but this is not something that I'm prepared to back up with data.
+
+I would also like to talk about the concentrated effort to quash trans trights. Just like the broader LGBTQ+ community as a whole, their situation was relatively unthreatened as of the mid-to-late 2010s. This has very noticeably changed now, what with 24 states deemed as being a moderate or higher risk to live in for trans people, according to journalist Erin Reed (2025). North Carolina's own HB2—which mandated transphobia for government bathrooms, met massive outcry, and was arguably a large factor in governor McRory's failed reelection bid (Dalesio & Drew, 2017)—is now the law in 16 states with 5 more having almost-as-severe ones in place (Movement Advancement Project, 2026). This definitely seems like a focused political project, and not one that's just limited to the US. The United Kingdom has, in most aspects, shifted even harder against trans rights—and they are under an ostensibly left-wing government. Where politicians were fine with them before, trans people's rights are now frequently employed as a wedge issue and scapegoat for larger problems. It's depressing, to put it plainly, and I'm not even personally affected.
+
+# Limits, Ethics, & Reflection
+As noted at the start, this data does not capture other forms of law that could impact LGBTQ+ rights, like court decisions or federal action. State-level and national politics can have very different dynamics, so it may be risky to extrapolate this data to how the country as a whole feels—though this does feel like the relevant time to inform you that the first national piece of anti-LGBTQ+ legislation made law since the 90s was passed by a Democrat-controlled Senate and signed by Joe Biden, the NDAA 2025.
+
+But on that note, while the numbers here may seem despairingly high, many bills are introduced without any expectation that they'll actually pass. This is a limitation of my project which I would have loved to delve into more. Only a fraction of bills introduced actually get signed into law, with most dying in subcommittees or actively getting rejected by the legislature or governor. This is likely why every state has at least some bills on the list; conservatives in solid blue states introduce these to get attention, not to actually implement them. If I had the time and knowledge I would have included representations to show how much of an issue these bills really are and to what extent the one's that passed have increased. Unfortunately, the inconsistent way the author filled in entries made that unfeasable for me to pursue.
+
+This data comes without any conceivable ethical issues nor room for bias—apart from the previously mentioned potential for the author to miscompile the data based on her judgement.
 
 # Code
 [Jupyter notebook here](docs/assets/Project_1_Anti-LGBTQ+_Legislation.ipynb)
 
-# References
+# References & AI Use Transparency
 No AI was used at any point in the making of this project.
+
+
+Dalesio, E. P., & Drew, J. (2017, March 30). _AP Exclusive: ‘Bathroom bill’ to cost North Carolina $3.76B_. The Associated Press. https://apnews.com/article/e6c7a15d2e16452c8dcbc2756fd67b44
+
+Jones, T. (2025, October 30). _Proposed Anti-LGBTQ+ US State Bills 2018-2025_. Macquarie University. https://doi.org/10.25949/24190026
+
+Movement Advancement Project. (2026, February 23). _Bans on Transgender People Using Public Bathrooms and Facilities According to their Gender Identity_. https://www.lgbtmap.org/equality-maps/nondiscrimination/bathroom_bans
+
+Reed, E. (2025, August 29). _Anti-Trans National Legal Risk Assessment Map: August Edition_. Erin In The Morning. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment
