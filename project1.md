@@ -17,3 +17,7 @@ The main difficult part here was getting the data in a format agreeable to Pytho
 
 # Data Understanding & Visualization
 The first thing I wanted to explore was if my hypothesis—that anti-LGBTQ+ legislation has significantly increased, and if so coinciding with election cycles—was true. To do that I created a histogram showing the amount  introduced over time.
+
+![Histogram showing year on the x axis and count on the y axis. Numbers are insignificant from 2018-2020, but double to around 150 by 2021. They jump again between '22 and '24 to over 500, with another increase to over 600 by 2025](.docs/assets/bills_per_year.png)
+
+
