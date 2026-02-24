@@ -48,7 +48,7 @@ As noted at the start, this data does not capture other forms of law that could 
 
 But on that note, while the numbers here may seem despairingly high, many bills are introduced without any expectation that they'll actually pass. This is a limitation of my project which I would have loved to delve into more. Only a fraction of bills introduced actually get signed into law, with most dying in subcommittees or actively getting rejected by the legislature or governor. This is likely why every state has at least some bills on the list; conservatives in solid blue states introduce these to get attention, not to actually implement them. If I had the time and knowledge I would have included representations to show how much of an issue these bills really are and to what extent the one's that passed have increased. Unfortunately, the inconsistent way the author filled in entries made that unfeasable for me to pursue.
 
-This data comes without any conceivable ethical issues nor room for bias—apart from the previously mentioned potential for the author to miscompile the data based on her judgement.
+This data comes without any conceivable ethical issues nor room for bias—apart from the previously mentioned potential for the author to miscompile the data based on her judgement. The data being entirely categorical meant that I struggled to think of ways to diversify my visualizations, though it was a fun challenge to do something like this where numerical data was not an option.
 
 # Code
 [Jupyter notebook here](docs/assets/Project_1_Anti-LGBTQ+_Legislation.ipynb)
