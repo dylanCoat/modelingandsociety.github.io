@@ -1,5 +1,7 @@
 # Portfolio
-im gonna be honest i dont think im gonna find the motivation to make this look good until it's for a grade, though I do appreciate the resources you provided!
+
+## Project 1
+[Here!](project1.md)
 
 ## Week 5 post- The Social Determinants of Health and the Capabilities Approach
 To my understanding, the social determinants of health comprise all the human-caused factors of a person's current and future health... which is to say essentially everything except genetic factors. Perhaps in the past the natural, non-man-made environment around a person would have been excluded from he determinants, but in the present times with massive climate manipulation it certainly has to be included. To be a bit more precise here, the social determinants of health generally seem to refer to the conditions surrounding a person as they go about their life as well as thew person's access to material (like food) and non-material (like power) resources. Maybe I'm misunderstanding something, but frankly I don't really see the utility in the existence of this term. It's far too all-encompassing to actually be useful in a discussion, apart from one where people are trying to express the many issues with eugenics.
