@@ -32,3 +32,6 @@ Some of what you see here might line up with what you expect, but I personally w
 
 I'd love to go deeper on the status of the bills, but dealing with the author's inconsistent descriptions meant that I couldn't be confident I could provide a fully-accurate depiction. Instead I moved on to my sub-question; how have trans rights, specifically, been represented here? I return once again with a plot based on years, this time focusing on bills the author classified with these phrases: "Single-sex", "TGD" (shortening of "transgender"), and "ID" (as ID laws are meant to target transgender individuals). This may not be a completely comprehensive capture, but it's the way the author classified the entries.
 
+![Plot showing the amount of bills introduced per year. There's a slow gradual rise from 2018 to 2020, then a large jump in 2021 to over 100. It more than doubles between '22 and '23, though there's a decrease from '23 to '24. From there though it still jumps up to over 350 in '25](docs/assets/transphobia.png)
+
+You can see that this follows the general trend with anti-LGBTQ+ bills overall, apart from the conspicuous dip in 2024. For reference here, the total number of anti-trans bills represented here is 1,193—that's over 54% of anti-LGBTQ+ bills overall! Here's a quick visualization to let that sink in:
