@@ -28,3 +28,7 @@ I next wanted to look at the state level. Where was it the worst, and where was 
 
 Some of what you see here might line up with what you expect, but I personally was surprised to see Wisconsin in the top and Nebraska in the bottom. Of course, it's also supremely disappointing for no state to be at 0. Once again, deeper interpretation is for next section. Below is a plot with every state on it; it's messy to read and not something I initially intended to include, but I accidentally made it then figured it may be of interest.
 
+![Plot of every state. I don't really believe anyone's actually going to use the alt text but my deepest apologies if you need it; I'm pressed for time here](docs/assets/american_century_of_humiliation.png)
+
+I'd love to go deeper on the status of the bills, but dealing with the author's inconsistent descriptions meant that I couldn't be confident I could provide a fully-accurate depiction. Instead I moved on to my sub-question; how have trans rights, specifically, been represented here? I return once again with a plot based on years, this time focusing on bills the author classified with these phrases: "Single-sex", "TGD" (shortening of "transgender"), and "ID" (as ID laws are meant to target transgender individuals). This may not be a completely comprehensive capture, but it's the way the author classified the entries.
+
