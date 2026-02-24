@@ -41,4 +41,7 @@ You can see that this follows the general trend with anti-LGBTQ+ bills overall, 
 # Storytelling & Interpretation
 
 # Code
-[Jupyter notebook here](docs/assets/
+[Jupyter notebook here](docs/assets/Project_1_Anti-LGBTQ+_Legislation.ipynb)
+
+# References
+No AI was used at any point in the making of this project.
