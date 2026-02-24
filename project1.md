@@ -22,5 +22,9 @@ The first thing I wanted to explore was if my hypothesis—that anti-LGBTQ+ legi
 
 And it seems like my hypothesis was correct. Numbers are somewhat insignificant from '18-'20, but double for the '21-'22 cycle. They rocket again for the next cycle, then noticeably shift for the next. I'll get to what this might mean in the next section, but whoof. This is grim.
 
-I next wanted to look at the state level. Where was it the worst, and where was it the best? To do this I created count plots of the top 10 for each respective end of the spectrum.
+I next wanted to look at the state level. Where was it the worst, and where was it the best? To do this I created count plots of the top 10 for each respective end of the spectrum. For reference, the total number of bills is 2,199.
+
+![Plot of the top 10 states in terms of bills intro'd. In order is Texas, Missouri, Oklahoma, Tennessee, Iowa, West Virginia, South Carolina, Mississippi, Kentucky, and Wisconsin, ranging from around 180 to 60](docs/assets/bigoted_states.png) ![Plot of the bottom 10 states in terms of bills intro'd. In descending order is New Mexico, Maine, Nebraska, Maryland, California, Nevada, Delaware, Vermont, and New York, with the first three tied at 12 and bottom sitting at 4](docs/assets/feckless_states.png)
+
+Some of what you see here might line up with what you expect, but I personally was surprised to see Wisconsin in the top and Nebraska in the bottom. Of course, it's also supremely disappointing for no state to be at 0. Once again, deeper interpretation is for next section. Below is a plot with every state on it; it's messy to read and not something I initially intended to include, but I accidentally made it then figured it may be of interest.
 
