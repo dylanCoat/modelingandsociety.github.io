@@ -51,7 +51,7 @@ But on that note, while the numbers here may seem despairingly high, many bills 
 This data comes without any conceivable ethical issues nor room for bias—apart from the previously mentioned potential for the author to miscompile the data based on her judgement. The data being entirely categorical meant that I struggled to think of ways to diversify my visualizations, though it was a fun challenge to do something like this where numerical data was not an option.
 
 # Code
-[Jupyter notebook here](docs/assets/Project_1_Anti-LGBTQ+_Legislation.ipynb)
+[Jupyter notebook here](https://github.com/dylanCoat/modelingandsociety.github.io/blob/main/docs/assets/Project_1_Anti-LGBTQ%2B_Legislation.ipynb))
 
 # References & AI Use Transparency
 No AI was used at any point in the making of this project.
