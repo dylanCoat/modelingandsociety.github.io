@@ -1,3 +1,3 @@
 #### lowkey still working on this, pls have mercy, it'll be done in an hour or two
 # The Dataset
-The dataset is com
+The dataset is comprised of several sources that I put together. The file for the full data can be found [here](.
