@@ -1,4 +1,3 @@
-#### lowkey still working on this, pls have mercy, it'll be done in an hour or two
 # The Dataset
 Ultimately I wanted to gather up several political and social factors in order to explore feature importance for what caused a state to be high-risk to transgender people. The dataset is comprised of several sources that I put together, you can find them at the bottom of this page. The file for the full data can be found [here](./docs/assets/trans_risk.ods) but below is a screenshot of every column name:
 
@@ -15,7 +14,7 @@ The Mandatory Retirement Age's nulls were because no retirement age existed, so 
 
 Because I was going to still be adjusting columns as I went, I kept dummied dataframes separate from the original. I used one hot encoding for every categorical variable, then divided the data between my y and X. Next I split my training and testing data—reserving 20% to testing—made the tree with default parameters, then took a look at the result.
 
-![](./docs/assets/tree_1.png)
+![](./docs/assets/proj2/tree_1.png)
 
 Here's where multiple issues come in. My dataset is so small that the model's able to take lazy shortcuts, and that's what happened here. Governor happened to be the deciding factor for almost all of my training data, and then it could just arbitrarily pick other features to separate the mavericks. This was something I'd have to manage in my next steps. I also tested the model's accuracy, which it got 80%. Given that my data was nearly a 50/50 split on the y I figured that I didn't have to monitor precision or recall here.
 
@@ -38,3 +37,7 @@ For the next step it's time to once again address what features I was using. Sta
 I discussed this one in the public section as well—it's basically the same as tree_2. To add insult to injury, I also computed its cross-validation score anf received 86%, the same as first_tree.
 
 # Reflection
+I learned a lot about pitfalls with machine learning. Get. That. Sample. Size. Up. I'm honestly not sure if I could've used this data in a tree for a better result—I'm thinking a different approach entirely would've been better suited to my research question. I really had a difficult time coming up with a topic for this project, as every research question I had lacked a suitable dataset and every dataset I found lacked a story I wanted to tell. I wished this project had gone a better direction, but I'm still happy with the work I did and the throughline between project 1 and this.
+
+# Works Cited
+### Dataset
