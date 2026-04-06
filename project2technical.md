@@ -45,6 +45,6 @@ Ballotpedia. (2025, November 4). _State supreme courts_. https://ballotpedia.org
 
 Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How Many Adults Identify As Transgender In the United States?_ https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf
 
-National Conference of State Legislators. (2026, March 23). _State Partisan Composition _. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
+National Conference of State Legislators. (2026, March 23). _State Partisan Composition_. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
 
 Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
