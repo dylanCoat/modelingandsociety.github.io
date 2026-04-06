@@ -1,4 +1,4 @@
-#### lowkey still working on this, pls have mercy
+#### lowkey still working on this, pls have mercy, it'll be done in an hour or two
 # Project Intro
 Building off of my last project, I wanted to examine potential causes behind why some states are worse than others with regards to transgender rights. To do this I compiled basic political information about every state, like their governor's party, legislature's dominant party, 2024 president vote, and more. And while transgender rights exist on a continuum, I needed a binary measure. I once again used Erin Reed's (2026) Adult Anti Trans Legal Risk Assessment Map, seen here:
 
@@ -17,6 +17,9 @@ I decided that perhaps state control was too obvious of a varaible and wanted to
 
 ![](./docs/assets/tree_3.png)
 
+This one seems more complicated, so I'll walk you through it. The left part shows that of all states with a Republican governor, those that also have Republican legislature are high-risk while the others are not—very similar results to the first tree. On the right path is states with a Democratic governor; of those, all Democratic legislatures are not high-risk, while the Republican ones are only high-risk if they have a population below what should be a familiar number... Despite randomization of what states it was trained off of, this is basically the same tree. It's technically rated as more accurate, with a score of 92.308% compared to the previous's 90%, but really both trees only have a single state that's not applicable.
+
+# Reflection
 
 
 Works cited
