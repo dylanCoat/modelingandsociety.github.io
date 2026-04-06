@@ -26,8 +26,12 @@ Overall the results here are underwhelming. Before doing this, I could've guesse
 My main takeaway from the actual act of doing this project is the importance of sample sizes. I went into it thinking that since the sample size was enough to be statistically significant, surely it could work for machine learning. To degree to which it did is debatable but nonetheless I expected a more robust and interesting tree, the kind of which of forms from much larger and diverse datasets.
 
 # Works cited
-https://ballotpedia.org/State_supreme_courts#sscinfo-listofcourts-1
-https://www.ncsl.org/about-state-legislatures/state-partisan-composition
-https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf
-https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
-https://www.thetrevorproject.org/blog/chiles-v-salazar/
+### Dataset
+Ballotpedia. (2025, November 4). _State supreme courts_. https://ballotpedia.org/State_supreme_courts#sscinfo-listofcourts-1
+Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How Many Adults Identify As Transgender In the United States?_ https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf
+National Conference of State Legislators. (2026, March 23). _State Partisan Composition _. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
+Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
+
+### References
+Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
+Trevor News. (2026, March 31). _Chiles v. Salazar: What you need to know about the U.S. Supreme Court case on conversion therapy_. https://www.thetrevorproject.org/blog/chiles-v-salazar/
