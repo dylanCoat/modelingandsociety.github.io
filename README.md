@@ -1,5 +1,8 @@
 # Portfolio
 
+## Project 2, Factors Behind Risky Anti-Trans States
+Access [here](project2public.md).
+
 ## Project 1, Tracking Anti-LGBTQ+ Legislation Across the United States
 Access [here](project1.md).
 
