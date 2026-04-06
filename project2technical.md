@@ -43,7 +43,11 @@ I learned a lot about pitfalls with machine learning. Get. That. Sample. Size. U
 ### Dataset
 Ballotpedia. (2025, November 4). _State supreme courts_. https://ballotpedia.org/State_supreme_courts#sscinfo-listofcourts-1
 
-Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How Many Adults Identify As Transgender In the United States?_ https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf
+Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How Many Adults Identify As Transgender In the United States?_ The Williams Institute. https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Adults-US-Aug-2016.pdf
+
+National Conference of State Legislators. (2026, March 23). _State Partisan Composition_. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
+
+Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. Erin In The Morning. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
 
 National Conference of State Legislators. (2026, March 23). _State Partisan Composition_. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
 
