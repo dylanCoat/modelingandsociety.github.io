@@ -41,6 +41,7 @@ I discussed this one in the public section as well—it's basically the same as 
 I learned a lot about pitfalls with machine learning. Get. That. Sample. Size. Up. I'm honestly not sure if I could've used this data in a tree for a better result—I'm thinking a different approach entirely would've been better suited to my research question. I really had a difficult time coming up with a topic for this project, as every research question I had lacked a suitable dataset and every dataset I found lacked a story I wanted to tell. I wished this project had gone a better direction, but I'm still happy with the work I did and the throughline between project 1 and this.
 
 # Works Cited
+At no point was AI used in the making of this project.
 ### Dataset
 Ballotpedia. (2025, November 4). _State supreme courts_. https://ballotpedia.org/State_supreme_courts#sscinfo-listofcourts-1
 
@@ -49,5 +50,3 @@ Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How
 National Conference of State Legislators. (2026, March 23). _State Partisan Composition_. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
 
 Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. Erin In The Morning. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
-
-At no point was AI used in the making of this project.
