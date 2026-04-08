@@ -1,3 +1,4 @@
+View the code [here](./docs/assets/proj2/Project_2_Trans_Risk.ipynb)
 # The Dataset
 Ultimately I wanted to gather up several political and social factors in order to explore feature importance for what caused a state to be high-risk to transgender people. The dataset is comprised of several sources that I put together, you can find them at the bottom of this page. The file for the full data can be found [here](./docs/assets/trans_risk.ods) but below is a screenshot of every column name:
 
