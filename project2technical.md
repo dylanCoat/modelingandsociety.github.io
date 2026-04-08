@@ -49,3 +49,5 @@ Flores, A. R., Herman, J, L., Gates, G. J., & Brown, T. N. T. (2016, June). _How
 National Conference of State Legislators. (2026, March 23). _State Partisan Composition_. https://www.ncsl.org/about-state-legislatures/state-partisan-composition
 
 Reed, E. (2026, February 20). _Anti-Trans National Legal Risk Assessment Map: Feb 2026_. Erin In The Morning. https://www.erininthemorning.com/p/anti-trans-national-legal-risk-assessment-a5d
+
+At no point was AI used in the making of this project.
