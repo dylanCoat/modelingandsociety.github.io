@@ -26,6 +26,7 @@ Overall the results here are underwhelming. Before doing this, I could've guesse
 My main takeaway from the actual act of doing this project is the importance of sample sizes. I went into it thinking that since the sample size was enough to be statistically significant, surely it could work for machine learning. To degree to which it did is debatable but nonetheless I expected a more robust and interesting tree, the kind of which of forms from much larger and diverse datasets.
 
 # Works cited
+At no point was AI used in the making of this project.
 ### Dataset
 Ballotpedia. (2025, November 4). _State supreme courts_. https://ballotpedia.org/State_supreme_courts#sscinfo-listofcourts-1
 
