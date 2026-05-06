@@ -1,5 +1,8 @@
 # Portfolio
 
+## Project 3, Government Corruption and Ecological Harm
+Access [here](project3.md)
+
 ## Project 2, Factors Behind Risky Anti-Trans States
 Access [here](project2public.md).
 
