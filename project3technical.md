@@ -44,6 +44,11 @@ GeeksforGeeks. “Random Forest Algorithm in Machine Learning.” GeeksforGeeks,
 GeeksforGeeks. “XGBoost.” GeeksforGeeks, 18 Sept. 2021, 
 www.geeksforgeeks.org/machine-learning/xgboost/.
 
+
+### Code Repo
+
+[Code here](https://github.com/p-hall1904/Final-Project/blob/f6d5f786e406efb00337544412fc47afc6ad97fd/Final%20project%20code.ipynb)
+
 ### AI Transparency
 
 Claude Sonnet 4.6 was used to help debug and build visualizations. All interpretations were done by us as a group.
