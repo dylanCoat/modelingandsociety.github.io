@@ -36,6 +36,8 @@ Random Forest works by building lots of decision trees in parallel and averaging
 
 From the feature importance comparison, we can deduce that the World Justice Project Rule of Law Index and Economist Intelligence Unit Country Ratings are the most reliable predictors of environmental health. The World Justice Project being of consistently high feature importance suggests that things like government regulation, structural integrity, and judicial strength are important to environmental health. Likewise, the Economist Intelligence Unit suggests that along with structural protections, countries with strong and stable economies are more likely to have higher performing environments. This is likely due to having more resources to be able to enforce regulations to protect the environment. The results are pointing to a broader idea that it might not be corruption alone that dictates environmental health, but rather the effectiveness of the regulations designed to protect it.
 
+View the more comprehensive technical report [here](project3technical.md).
+
 ## Limitations, Ethics, and Reflection
 
 We have tasked ourselves with finding a correlation, and possibly causation, between ecological health issues and political corruption. Because of these topics, and the data that we are using, there are a couple ethical concerns that should be addressed.
@@ -91,11 +93,9 @@ GeeksforGeeks. “XGBoost.” GeeksforGeeks, 18 Sept. 2021,
 www.geeksforgeeks.org/machine-learning/xgboost/.
 
 
-### Code Repo and Technical Report
+### Code Repo
 
 [Code here](https://github.com/p-hall1904/Final-Project/blob/f6d5f786e406efb00337544412fc47afc6ad97fd/Final%20project%20code.ipynb)
-
-[Technical Report](project3technical.md)
 
 ### AI Transparency
 
