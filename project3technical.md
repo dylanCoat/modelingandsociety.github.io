@@ -24,7 +24,7 @@ For our model experiments, we decided to try Random Forest Regression, XGBoost, 
 
 In every model used, we used an initial GridSearch algorithm for optimized hyperparameter tuning. This will allow us to get the best results possible from each model and keep us from doing guesswork. We then ran each model with the optimized hyperparameters for comparison. Our results are shown below. 
 
-![accuracy measures, I know this is unhelpful alt text I'm sorry](./docs/assets/proj3/scores.png)
+![accuracy measures, I know this is unhelpful alt text I'm sorry](./docs/assets/proj3/proj3_scores.png)
 
 The CatBoost model ended up being our highest performer with the highest R-squared value and lowest error rates. The model explains about 57% of the variance in global EPI scores, which is a relatively strong score for the social and environmental fields. 
 
@@ -33,3 +33,17 @@ Despite CatBoost being our highest performing model, we made a visualization to 
 ![third graph from the public, showing the various indices.](./docs/assets/proj3/cpi_indices.png)
 
 From the feature importance comparison, we can deduce that the World Justice Project Rule of Law Index and Economist Intelligence Unit Country Ratings are the most reliable predictors of environmental health. The World Justice Project being of consistently high feature importance suggests that things like government regulation, structural integrity, and judicial strength are important to environmental health. Likewise, the Economist Intelligence Unit suggests that along with structural protections, countries with strong and stable economies are more likely to have higher performing environments. This is likely due to having more resources to be able to enforce regulations to protect the environment. Both of these findings suggest that the effectiveness of regulatory institutions could be more important to the environment than other forms of corruption, or lack thereof. 
+
+### Resources
+
+GeeksforGeeks. “CatBoost in Machine Learning.” GeeksforGeeks, 20 Jan. 2021, 
+www.geeksforgeeks.org/machine-learning/catboost-ml/.  
+
+GeeksforGeeks. “Random Forest Algorithm in Machine Learning.” GeeksforGeeks, 22 Feb. 2024, www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/ 
+
+GeeksforGeeks. “XGBoost.” GeeksforGeeks, 18 Sept. 2021, 
+www.geeksforgeeks.org/machine-learning/xgboost/.
+
+### AI Transparency
+
+Claude Sonnet 4.6 was used to help debug and build visualizations. All interpretations were done by us as a group.
