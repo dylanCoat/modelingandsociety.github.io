@@ -18,7 +18,7 @@ To start, we focused on establishing the relationship between CPI and EPI, as it
 
 ![comparison of epi vs. cpi over time](./docs/assets/proj3/epi_vs_cpi.png)
 
-The graph shows how CPI and EPI move together over time, and at first glance the pattern isn't perfectly straightforward. In some years, they even seem to move in opposite directions. For example, in 2016, CPI hit its lowest point while EPI wasat its highest. Then in the years that follow, EPI drops in 2018 and 2020, before climbing again by 2024 as CPI rises. What this suggests is that environmental outcomes don't always react instantly to changes in corruption levels. Instead, the relationship seems to unfold more gradually over time, with effects showing up a few years later rather than immediately. This is a concept known as ecological lag.
+The graph shows how CPI and EPI move together over time, and at first glance the pattern isn't perfectly straightforward. In some years, they even seem to move in opposite directions. For example, in 2016, CPI hit its lowest point while EPI was at its highest. Then in the years that follow, EPI drops in 2018 and 2020, before climbing again by 2024 as CPI rises. What this suggests is that environmental outcomes don't always react instantly to changes in corruption levels. Instead, the relationship seems to unfold more gradually over time, with effects showing up a few years later rather than immediately. This is a concept known as ecological lag.
 
 To get a clearer picture of the overall trend, we also plotted the data on a scatter graph with a trend line.
 
@@ -40,7 +40,7 @@ From the feature importance comparison, we can deduce that the World Justice Pro
 
 We have tasked ourselves with finding a correlation, and possibly causation, between ecological health issues and political corruption. Because of these topics, and the data that we are using, there are a couple ethical concerns that should be addressed.
 
-One technical limitation that was briefly mentioned in the modeling section, was the exclusion of Year and Region from our feature importance analysis. Year was the most important feature for our decision trees, but no insight could be taken away from that, as including Year would have overshadowed the other variables. However, excluding these features from the analysis could overstate the importance of the other features. We decided to prioritize interpretability in order to get actionable insights, but the takeaways should be understood within this limitation.
+One technical limitation was the exclusion of Year and Region from our feature importance analysis. Year was the most important feature for our decision trees, but no insight could be taken away from that, as including Year would have overshadowed the other variables. However, excluding these features from the analysis could overstate the importance of the other features. We decided to prioritize interpretability in order to get actionable insights, but the takeaways should be understood within this limitation.
 
 When it comes to the features that we used to deem importance, we had to use personal research to determine what those features were, what they did, and how they affected the Environmental Performance Index.
 
